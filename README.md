@@ -28,6 +28,12 @@ renv::restore()
 ``` r
 targets::tar_make()
 ``` 
+-displays the dependency graph of the pipeline, showing a natural left-to-right flow of work.
+``` r
+tar_visnetwork()
+``` 
+![Rplot](https://user-images.githubusercontent.com/65603840/215220153-48526d27-109c-48c6-b142-3ed30f27905b.png)
+
 - get the visualization of linear relation model 
 ``` r
 tar_read(plot)
