@@ -1,11 +1,11 @@
-# MedicalDataPlot
+# data_Linear_regression_pipeline
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of MedicalDataPlot is to create a pipeline to save visual for the linear relation of the new cases of covid (log data) and temperature in Belgium using  with R by Ya Wang. 
+The goal of data_Linear_regression_pipeline is to create a pipeline to save visual for the linear relation of the new cases of covid (log data) and temperature in Belgium using  with R by Ya Wang. 
 
-###  MedicalData Package
+###  data_Linear_regression_pipeline
 https://github.com/moyifang/data_Linear_regression_pipeline/new/main/README.md
 
 ## Running
