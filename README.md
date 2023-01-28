@@ -16,7 +16,7 @@ You can run the code as follows:
 ```
 git clone https://github.com/moyifang/data_Linear_regression_pipeline.git
 ```
-- The code will create a file named MedicalDataPlot. 
+- The code will create a file named  data_Linear_regression_pipeline. 
 - Make sure you are using R version 4.1.1
 - Open an R session in the root of the folder and run the code below:
 
